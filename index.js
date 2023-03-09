@@ -41,7 +41,7 @@ users.map(function (user) {
       
       <button>Follow</button>
       <button>Message</button>
-      <button>Like</button>
+      <button></button>
       
     </div>
     
