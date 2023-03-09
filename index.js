@@ -47,8 +47,3 @@ users.map(function (user) {
     
   </div>`;
 })
-let names = ["Sniper: How are you Charz?", "Charz: I am good Sir", "Sniper: Hope all is well?", " Charz: Yeah"];
-names.map(function (name) {
-  // Add the names inside ul li to the DOM
-  document.querySelector("ol").innerHTML += `<li>${name}</li>`;
-});
